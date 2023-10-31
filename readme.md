@@ -1,2 +1,2 @@
 #Tree (Linked & Stack)
-![](./img/result2.png)
+![](./result2.png)
